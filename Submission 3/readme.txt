@@ -3,9 +3,7 @@ https://youtube.com/.....
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
-Native/original format: 
-https://draw.io/...
+https://app.diagrams.net/#G1flJZUsMqiIxnON86FalMV5mwSJk9VGC2
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
