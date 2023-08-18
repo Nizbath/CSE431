@@ -3,6 +3,8 @@ https://youtube.com/.....
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
+
+Native/original format: 
 https://app.diagrams.net/#G1flJZUsMqiIxnON86FalMV5mwSJk9VGC2
 
 Name, Author, Edition, year, and publisher of the Book:
