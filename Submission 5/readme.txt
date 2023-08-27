@@ -10,6 +10,13 @@ Paper title:
 Detection of Classifications Of Living Organisms
 Using Voice Recognition
 
+Paper submission date (to workshop/conference):
+Paper submission ID: (received) from conference/workshop
+
+Conference Name:
+
+Conference URL:
+
 Group Number:
 27
 
