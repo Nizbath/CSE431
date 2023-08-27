@@ -5,11 +5,19 @@ https://www.overleaf.com/project/64e5abcc9c335372d285be3a
 Unlisted YouTube video:
 https://www.youtube.com/watch?v=Cwpi_pPBVDA&list=PLPZFQ0pIxOL9l7BgKXT47MinbR-rxkwdr&index=4
 
+Conference submitted paper / paper submission / login Link:
 
 Paper title:
 Detection of Classifications Of Living Organisms
 Using Voice Recognition
 
+Paper submission date (to workshop/conference):
+Paper submission ID: (received) from conference/workshop
+
+Conference Name:
+
+Conference URL:
+ 
 Group Number:
 27
 
