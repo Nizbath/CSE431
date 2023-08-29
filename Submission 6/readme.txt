@@ -1,3 +1,14 @@
+Codes:
+
+https://www.kaggle.com/code/lonelyrobot/voice-recognization-with-svm-linear-kernel
+https://www.kaggle.com/code/impratiksingh/unsupervised-learning/notebook
+
+Models:
+https://www.kaggle.com/models/google/mobilenet-v2
+https://www.kaggle.com/models/google/resnet-v2
+
+
+
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/project/64e5abcc9c335372d285be3a
 
