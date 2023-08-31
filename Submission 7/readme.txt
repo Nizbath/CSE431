@@ -1,3 +1,6 @@
+Dataset:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
 https://www.overleaf.com/project/64f06db72dbe6a0719debc58
 
