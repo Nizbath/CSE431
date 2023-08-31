@@ -14,3 +14,13 @@ Using Different Machine Learning Models to Detect Fake News
 
 Paper submission date (to workshop/conference):
 Paper submission ID: (received) from conference/workshop
+
+
+Group Number:
+27
+
+Group Members:
+
+20101227/23341119 Nizbath Ahsan
+20301194 Mahdi Hossain
+20201022 Saiyeda Sabiha
