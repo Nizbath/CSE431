@@ -16,7 +16,6 @@ Paper submission ID: (received) from conference/workshop: 316
 Conference Name: ICCIT 2023, 26th International Conference On Computer And Technology.
 
 Conference URL: https://iccit.org.bd/2023/
-
 Group Number:
 27
 
