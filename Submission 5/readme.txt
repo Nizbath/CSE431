@@ -9,12 +9,13 @@ Paper title:
 Detection of Classifications Of Living Organisms
 Using Voice Recognition
 
-Paper submission date (to workshop/conference):
-Paper submission ID: (received) from conference/workshop
+Paper submission date (to workshop/conference): 05 September 2023, Tuesday.
 
-Conference Name:
+Paper submission ID: (received) from conference/workshop: 316
 
-Conference URL:
+Conference Name: ICCIT 2023, 26th International Conference On Computer And Technology.
+
+Conference URL: https://iccit.org.bd/2023/
 
 Group Number:
 27
