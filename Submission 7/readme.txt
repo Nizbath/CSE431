@@ -6,6 +6,7 @@ https://docs.google.com/presentation/d/1hHLsA0LhnnPdigxW2Et2GYifW4od24KWuMSt2rsr
 
 
 Unlisted YouTube video:
+https://www.youtube.com/watch?v=2rRmCzhtoYA&list=PLPZFQ0pIxOL9l7BgKXT47MinbR-rxkwdr&index=7
 
 
 Paper title:
