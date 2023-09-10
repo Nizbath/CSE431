@@ -13,7 +13,7 @@ Paper title:
 Using Different Machine Learning Models to Detect Fake News
 
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): 10 Sep 2023 
 Paper submission ID: (received) from conference/workshop
 Conference Name: 6th International Conference on
 Electrical Information and Communication Technology
