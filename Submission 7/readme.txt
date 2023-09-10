@@ -15,9 +15,11 @@ Using Different Machine Learning Models to Detect Fake News
 
 Paper submission date (to workshop/conference):
 Paper submission ID: (received) from conference/workshop
-Conference Name:
+Conference Name: 6th International Conference on
+Electrical Information and Communication Technology
+07~09 December 2023
 
-Conference URL:
+Conference URL:https://eict2023.kuet.ac.bd/registration.php
 
 Group Number:
 27
