@@ -7,14 +7,11 @@ https://www.youtube.com/watch?v=2rRmCzhtoYA&list=PLPZFQ0pIxOL9l7BgKXT47MinbR-rxk
 
 Conference submitted paper / paper submission / login Link:  https://cmt3.research.microsoft.com/ICCITconf2023/Submission/Index
 
-Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1hHLsA0LhnnPdigxW2Et2GYifW4od24KWuMSt2rsrt5E/edit#slide=id.p
-
-
 
 Paper title:
 Using Different Machine Learning Models to Detect Fake News
-
+Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/1hHLsA0LhnnPdigxW2Et2GYifW4od24KWuMSt2rsrt5E/edit#slide=id.p
 
 Paper submission date (to workshop/conference): 10 Sep 2023 
 Paper submission ID: (received) from conference/workshop
