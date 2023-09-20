@@ -12,6 +12,10 @@ Paper title:
 Detection of Classifications Of Living Organisms
 Using Voice Recognition
 
+Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/1lS_OIatzz4z5yLpeiVjS0y2oW4VK-SCQ-gqH7s8njNk/edit?usp=sharing
+
+
 Paper submission date (to workshop/conference):05 September 2023, Tuesday.
 Paper submission ID: (received) from conference/workshop: 316
 
