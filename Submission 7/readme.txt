@@ -14,7 +14,7 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1hHLsA0LhnnPdigxW2Et2GYifW4od24KWuMSt2rsrt5E/edit#slide=id.p
 
 Paper submission date (to workshop/conference): 10 Sep 2023 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: (received) from conference/workshop : 509
 Conference Name: 6th International Conference on
 Electrical Information and Communication Technology
 07~09 December 2023
