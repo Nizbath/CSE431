@@ -15,7 +15,7 @@ Using Voice Recognition
 Paper submission date (to workshop/conference):05 September 2023, Tuesday.
 Paper submission ID: (received) from conference/workshop: 316
 
-Conference Name:
+Conference Name: ICCIT 2023, 26th International Conference On Computer And Technology.
 
 Conference URL:  https://iccit.org.bd/2023/
  
