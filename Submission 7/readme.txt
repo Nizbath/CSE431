@@ -11,7 +11,7 @@ Conference submitted paper / paper submission / login Link:  https://cmt3.resear
 Paper title:
 Using Different Machine Learning Models to Detect Fake News
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1hHLsA0LhnnPdigxW2Et2GYifW4od24KWuMSt2rsrt5E/edit#slide=id.p
+https://docs.google.com/presentation/d/1hHLsA0LhnnPdigxW2Et2GYifW4od24KWuMSt2rsrt5E/edit?usp=sharing
 
 Paper submission date (to workshop/conference): 10 Sep 2023 
 Paper submission ID: (received) from conference/workshop : 509
