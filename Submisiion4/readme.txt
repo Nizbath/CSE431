@@ -5,7 +5,8 @@ https://www.overleaf.com/project/64e5abcc9c335372d285be3a
 Unlisted YouTube video:
 https://www.youtube.com/watch?v=Cwpi_pPBVDA&list=PLPZFQ0pIxOL9l7BgKXT47MinbR-rxkwdr&index=4
 
-Conference submitted paper / paper submission / login Link:
+Conference submitted paper / paper submission / login Link:  https://cmt3.research.microsoft.com/ICCITconf2023/Submission/Index
+
 
 Paper title:
 Detection of Classifications Of Living Organisms
