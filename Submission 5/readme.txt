@@ -7,8 +7,6 @@ https://www.youtube.com/watch?v=VHtuMi5Rt4I&list=PLPZFQ0pIxOL9l7BgKXT47MinbR-rxk
 
 Conference submitted paper / paper submission / login Link:  https://cmt3.research.microsoft.com/ICCITconf2023/Submission/Index
 
-
-
 Paper title:
 Detection of Classifications Of Living Organisms
 Using Voice Recognition\
